@@ -89,6 +89,8 @@ https://codepen.io/Trusion/pen/VwYvbZN?editors=1100
 /it is positioned relative to the nearest positioned ancestor, if it has no ancestor the it follows the page body.
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    block: <div> <p> <form>
+    inline: <span> <img>
     5. In your own words, explain the box model. What is the fix for the box model? 
 /it is the set of rules that decides how a css element/s sizes are layed out as you add padding, borders, and margins around content. It can be an enemy of strong and responsive layouts because they can make a webpage pretty fragile because the content can be tightly spaced and cause over lapping. resulting in a lot of simple math that no one wants to do lol.
 
